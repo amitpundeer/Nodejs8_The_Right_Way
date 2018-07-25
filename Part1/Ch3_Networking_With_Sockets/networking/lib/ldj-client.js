@@ -28,5 +28,4 @@ class LDJClient extends EventEmitter {
             return new LDJClient(stream);
         }
 }
-
 module.exports = LDJClient;
